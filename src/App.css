@@ -1,33 +1,27 @@
-/* theme dark */
-.bg-black{
-  background-color: black;
+/* DARK THEME */
+.bg-light-black {
+  background-color: #463636 !important;
 }
-.bg-light-black{
-  background-color: #262626 !important;
+.text-black {
+  color: rgb(0, 0, 0);
 }
-.text-black{
-  color: black;
-}
-.text-light-black{
+.text-light-black {
   color: #262626;
 }
-.bg-dark-primary{
-  background-color: #fcbc73 !important;
+.bg-dark-primary {
+  background-color: #8a6fff !important;
 }
-.text-dark-primary{
-  color: #fcbc73 !important;
+.text-dark-primary {
+  color: #ffb45e !important;
 }
 
-/* theme light */
-.bg-light{
-  background-color: white;
+/* LIGHT THEME */
+.bg-light-2 {
+  background-color: #0080ff;
 }
-.bg-light-2{
-  background-color: #dadcde;
+.bg-light-primary {
+  background-color: #fb5000 !important;
 }
-.bg-light-primary{
-  background-color: #191659 !important;
-}
-.text-light-primary{
-  color: #191659 !important;
+.text-light-primary {
+  color: #3f3fc7 !important;
 }
